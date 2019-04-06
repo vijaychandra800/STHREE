@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ignore">
+    <ImageView
+        android:src="@drawable/women"
+        android:layout_width="match_parent"
+        android:layout_height="250dp" />
+    <ScrollView
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Even though female entrepreneurship and the formation of female-owned business networks is steadily rising, there are a number of challenges and obstacles that female entrepreneurs face. One major challenge that many female entrepreneurs face is the effect that the traditional gender-roles society may still have on women. Entrepreneurship is still considered as a male-dominated field, and it may be difficult to surpass these conventional views. Other than dealing with the dominant stereotype, female entrepreneurs are facing several obstacles related to their businesses.
+Obstacles specific to starting new firms
+External finance and sex discrimination.
+In general, women have lower personal financial assets than men. This means that for a given opportunity and equally capable individual, women must secure additional resources compared to men in order to exploit the opportunity; because, they control less capital. The question of whether women have a harder time getting finance than men for the same business opportunity has developed into its own sub-fieldOne possible issue in raising outside capital is that 96% of senior venture capitalists are men and may not be as understanding of female-centric businesses[.However, the situation seems to be improving. A study by Babson College showed that in 1999, fewer than 5% of venture capital investments went to companies with a woman on the executive team. In 2011, it was 9% and in 2013 it had jumped to 18%."
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+    </ScrollView>
+</RelativeLayout>

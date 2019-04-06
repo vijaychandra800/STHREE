@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Basically we’re a bunch of students trying to portrait the various growths in the succession of women in the areas of business and them gaining profit through their common livelihood.
+The role of women in rural development, food production and poverty eradication.
+Rural women are key agents for development. They play a catalytic role towards achievement of transformational economic, environmental and social changes required for sustainable development. But limited access to credit, health care and education are among the many challenges they face. These are further aggravated by the global food and economic crises and climate change. Empowering them is essential, not only for the well-being of individuals, families and rural communities, but also for overall economic productivity, given women’s large presence in the agricultural workforce worldwide.
+UN Women supports the leadership and participation of rural women in shaping laws, policies and programs on all issues that affect their lives, including improved food and nutrition security, and better rural livelihoods. Training equips them with skills to pursue new livelihoods and adapt technology to their needs.
+
+Empowering women to participate fully in economic life across all sectors is essential to build stronger economies, achieve internationally agreed goals for development and sustainability, and improve the quality of life for women, men, families and communities. The private sector is a key partner in efforts to advance gender equality and empower women."
+        android:textSize="20dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+</ScrollView>
+</RelativeLayout>

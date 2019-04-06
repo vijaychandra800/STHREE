@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="380dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="0dp"
+        android:background="@drawable/custom_button"
+        android:text="Women Empowerment"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="380dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="99dp"
+        android:layout_marginEnd="0dp"
+        android:background="@drawable/custom_button"
+        android:text="Women Entrepreneur"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="380dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="178dp"
+        android:layout_marginEnd="0dp"
+        android:background="@drawable/custom_button"
+        android:text="Women Development"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="380dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="258dp"
+        android:layout_marginEnd="0dp"
+        android:background="@drawable/custom_button"
+        android:text="Challenges Faced"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+</RelativeLayout>

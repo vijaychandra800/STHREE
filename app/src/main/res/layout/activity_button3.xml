@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ignore">
+
+    <ImageView
+        android:src="@drawable/test"
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_height="match_parent"
+            android:text="In other countries, women were severely underemployed. According to the 1971 census in India, women constituted 48.2% of the population but only 13% of economic activity. Women were excluded from many types of formal job, so 94% of the female workforce was engaged in the unorganized sector employed in agriculture, agro-forestry, fishery, handicrafts and so on.With growing awareness of women's issues, in the 1970s development planners began to try to integrate women better into their projects to make them more productive.The WID approach initially accepted existing social structures in the recipient country and looked at how to better integrate women into existing development initiatives.The straightforward goal was to increase the productivity and earnings of women.A study by the Kauffman Foundation of 570 high-tech firms started in 2004 showed that women-owned firms were more likely to be organized as sole proprietorships, both during their startup year and in the years to follow. Female entrepreneurs were also much more likely to start their firms out of their homes and were less likely to have employees. This fact may serve as an indication that women either anticipated having smaller firms or were operating under resource constraints that did not allow them to launch firms requiring more assets, employees, or financial resources. This study also found that women only raised 70% of the amount that men raised to start their firms, which ultimately impacted their ability to introduce new products and services or expand their business in terms of employees or geographic locations"
+            />
+    </ScrollView>
+</RelativeLayout>

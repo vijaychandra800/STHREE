@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ignore">
+   <ImageView
+       android:layout_marginTop="20dp"
+       android:src="@drawable/women"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" />
+<ScrollView
+    android:layout_marginTop="180dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:text="‘Women entrepreneurship’ is like a discipline for a child that begins at home. Women have been entrepreneurs in different ways. A house wife is an entrepreneur as she manages her time, strategizes and plans on ways to secures her children’s future, passionate about her home and family and wears so many more different hats for a successful life.
+
+Today, we have given it a name “Entrepreneur” as she steps out into the arena. In today’s world, women have scaled greater heights in different industries.
+
+Women entrepreneurs have to find a balance economically and financially both, home front and career. It is always a great idea to be active and inculcate a habit to be part of local networks of women entrepreneurs. This helps to enhance the role of women entrepreneurship, where their self owned business involves directly the policy makers at local, regional and national levels.
+
+Women play a very important and vital role in every aspect of life thereby needs a great balance between work, personal life, family life and social life.
+
+The main reason for most start-ups and entrepreneurial ventures to fail are the operational costs and overheads thereby directly affecting sustainability.
+
+Kinderdance adds its value to increase the awareness of the need to create the appropriate framework conditions, both at national and local levels, to foster and support women’s entrepreneurship (measures to facilitate women’s access to entrepreneurship, e.g., education and training, facilities to balance work and family life, access to finance, access to networks, etc.). Women entrepreneurs contribute a great deal and can make to local economic and social development.
+Women entrepreneurs unlike a struggle before have been accepted and encouraged by extended support from the family and friends. Awareness through media and parents in todays world wanting the best for their children, irrespective of a girl or a boy has helped in increasing numbers of women entrepreneurs. There is a segment though that is still conservative and with the way the Indians are adapting to the western culture, it is not going to be too long to overcome such social pressures.
+
+It is always a great start for any woman who organizes herself and is able to dedicate to it with passion, seek opportunities and aggressively bonds with her decision making. I strongly believe the “Persistence is the key to success. When you are 100% passionate about the product and 10 times more passionate about the business concept, you are in the right direction”."
+        android:layout_width="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_height="match_parent" />
+</ScrollView>
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ignore">
+    <ImageView
+        android:src="@drawable/empowerement"
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="250dp" />
+    <ScrollView
+    android:layout_below="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+        android:text="It is the process in which women elaborate and recreate what it is that they can be, do, and accomplish in a circumstance that they previously were denied. Empowerment can be defined in many ways, however, when talking about women's empowerment, empowerment means accepting and allowing people women who are on the outside of the decision-making process into it. This puts a strong emphasis on participation in political structures and formal decision-making and, in the economic sphere, on the ability to obtain an income that enables participation in economic decision-making.Empowerment is the process that creates power in individuals over their own lives, society, and in their communities.People are empowered when they are able to access the opportunities available to them without limitations and restrictions. Feeling entitled to make your own decisions creates a sense of empowerment.The United Nations Development Program UNDPestablished a special Division for Women in Development, promoting concrete action to ensure that women participate in UNDP projects.The United Nations paper International Development Strategy for the Third United Nations Development Decade, issued in 1980, recognized a number of Women in Development issues. It called for women to play an active role in all sectors and at all levels of the Program of Action adopted by the World Conference of the United Nations Decade for Women, both as agents and beneficiaries. Policies on industrialization, food and agriculture, science and technology and social development should all involve women."
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+
+        />
+    </ScrollView>
+</RelativeLayout>
